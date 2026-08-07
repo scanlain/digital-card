@@ -1,5 +1,5 @@
 import '../App.css'
-import photo from "../assets/profile-photo.JPG"
+import photo from "../assets/profile-photo.jpg"
 
 const Header = () => {
   return (
